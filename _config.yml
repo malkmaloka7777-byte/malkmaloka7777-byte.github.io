@@ -1,4 +1,2 @@
-```yaml
 include:
-  - toksave
-```
+  - "/toksave"
